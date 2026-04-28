@@ -47,7 +47,7 @@ python main.py
 
 ## 👤 Developer
 
-Developed by **Ellan Fvnky**
+Developed by **Claude AI**
 
 ---
 
